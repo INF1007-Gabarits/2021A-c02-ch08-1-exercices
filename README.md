@@ -1,5 +1,3 @@
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod-redirect-0.herokuapp.com/)
-
 # Manettes et claviers (chapitre 8.1)
 
 Avant de commencer. Consulter les instructions à suivre dans [instructions.md](instructions.md)
@@ -58,8 +56,8 @@ Exemple :
 
 Il faut suivre la démonstration faite en classe. Voici les étapes :
 
-### 2.1. Structure d'un fichier INI
+#### 2.1. Structure d'un fichier INI
 
-### 2.2. Construire des callbacks à appeler sur des boutons
+#### 2.2. Construire des callbacks à appeler sur des boutons
 
-### 2.3. Charger la configuration et exécuter un code
+#### 2.3. Charger la configuration et exécuter un code
